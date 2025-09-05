@@ -1,5 +1,5 @@
 # Heyo, I'm SzyZu
-18 year old student with bad time management who tries to make things in Java, C# and JS (and sometimes it works, yay :D)
+18 year old student who tries to make things in C#, Java and TS/JS (and sometimes it works, yay :D)
 
 # 
 
