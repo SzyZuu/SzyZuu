@@ -1,5 +1,5 @@
 # Heyo, I'm SzyZu
-18 year old student who tries to make things in C#, Java and TS/JS (and sometimes it works, yay :D)
+19 year old student who tries to make things in C#, Java and TS/JS (and sometimes it works, yay :D)
 
 # 
 
